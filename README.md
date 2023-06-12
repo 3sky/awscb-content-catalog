@@ -39,6 +39,9 @@ Everything AWS, Serverless and Architectures [@zachjonesnoel](https://github.com
 - [lockhead.info](https://lockhead.info) -
 A blog about CI/CD, DevOps and AWS technology [@Lock128](https://github.com/Lock128)
 
+- [olcortesb](https://olcortesb.hashnode.dev/) -
+A blog focus on serverless in general  [@olcortesb](https://github.com/olcortesb)
+
 ## Newsletters
 
 - [AWS Weekly](https://awsweekly.info) -
