@@ -33,14 +33,16 @@ A blog dedicated to AWS Serverless & Lambda 101 [@ran-isenberg](https://github.c
 - [Rishab in Cloud](https://blog.rishabkumar.com) -
 Blog on hashnode [@rishabkumar7](https://github.com/rishabkumar7)
 
-- [The Serverless Terminal](https://www.theserverlessterminal.com/) -
-Everything AWS, Serverless and Architectures [@zachjonesnoel](https://github.com/zachjonesnoel)
-
 - [lockhead.info](https://lockhead.info) -
 A blog about CI/CD, DevOps and AWS technology [@Lock128](https://github.com/Lock128)
 
 - [olcortesb](https://olcortesb.hashnode.dev/) -
 A blog focus on serverless in general  [@olcortesb](https://github.com/olcortesb)
+
+- [Security and Cloud 24/7](https://security-24-7.com) - Information Security and Cloud Blog [eyalestrin](https://github.com/eyalestrin)
+
+- [The Serverless Terminal](https://www.theserverlessterminal.com/) -
+Everything AWS, Serverless and Architectures [@zachjonesnoel](https://github.com/zachjonesnoel)
 
 ## Newsletters
 
