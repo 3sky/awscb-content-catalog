@@ -5,7 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo "🎉 Great that you're here. First lint our markdown."
-      - uses: DavidAnson/markdownlint-cli2-action@v10with
-        with:
-          globs: |
-            README.md
+      - uses: DavidAnson/markdownlint-cli2-action@v10
