@@ -84,6 +84,9 @@ best practices, templates and tips & tricks! [@Lock128](https://github.com/Lock1
 - [ibilalkayy](https://www.youtube.com/@ibilalkayy) -
 Valuable content related to programming. [@ibilalkayy](https://github.com/ibilalkayy)
 
+- [InfiniteLinux](https://www.youtube.com/@InfiniteLinux) -
+In-depth tutorials and demos on the latest technologies in the field, including Terraform, Kubernetes, Docker, Linux, and AWS. [Tariq Siddiqui](https://www.linkedin.com/in/tariqsiddiqui/)
+
 - [rishabkumar7](https://www.youtube.com/@rishabkumar7) -
 I am passionate about helping people get
 into cloud and sharing my learnings from my
