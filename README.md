@@ -28,6 +28,8 @@ Last Week in AWS. [@QuinnyPig](https://github.com/QuinnyPig)
 - [Lays’s on the Clouds](https://lays147.substack.com) -
 TALK ABOUT AWS, SOFTWARE ARCHITECTURE AND MORE! [@lays147](https://github.com/lays147)
 
+- [Ran the Builder](https://www.ranthebuilder.cloud) -
+A blog dedicated to AWS Serverless & Lambda 101 [@ran-isenberg](https://github.com/ran-isenberg)
 - [Rishab in Cloud](https://blog.rishabkumar.com) -
 Blog on hashnode [@rishabkumar7](https://github.com/rishabkumar7)
 
