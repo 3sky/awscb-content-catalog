@@ -28,6 +28,9 @@ Last Week in AWS. [@QuinnyPig](https://github.com/QuinnyPig)
 - [Lays’s on the Clouds](https://lays147.substack.com) -
 TALK ABOUT AWS, SOFTWARE ARCHITECTURE AND MORE! [@lays147](https://github.com/lays147)
 
+- [Piyush Sachdeva's blog on Medium.com] (https://medium.com/@piyush.sachdeva055) - 
+Blog about AWS/Azure/GCP and DevOps [@piyushsachdeva](https://github.com/piyushsachdeva)
+
 - [Ran the Builder](https://www.ranthebuilder.cloud) -
 A blog dedicated to AWS Serverless & Lambda 101 [@ran-isenberg](https://github.com/ran-isenberg)
 - [Rishab in Cloud](https://blog.rishabkumar.com) -
@@ -93,7 +96,7 @@ into cloud and sharing my learnings from my
 time in cloud, DevOps and now Developer Relations. [@rishabkumar7](https://github.com/rishabkumar7)
 
 - [TechTutorialswithPiyush](https://www.youtube.com/@TechTutorialswithPiyush) -
-Cool stuff about cloud computing,
+Amazing hands-on projects and tutorial about cloud computing(AWS,Azure,GCP),
 DevOps, Kubernetes, and the latest trends in the IT industry.
 
 - [techwithhelen](https://www.youtube.com/@techwithhelen) - Simplifying DevOps/Cloud!
