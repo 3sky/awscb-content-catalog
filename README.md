@@ -30,6 +30,7 @@ TALK ABOUT AWS, SOFTWARE ARCHITECTURE AND MORE! [@lays147](https://github.com/la
 
 - [Ran the Builder](https://www.ranthebuilder.cloud) -
 A blog dedicated to AWS Serverless & Lambda 101 [@ran-isenberg](https://github.com/ran-isenberg)
+
 - [Rishab in Cloud](https://blog.rishabkumar.com) -
 Blog on hashnode [@rishabkumar7](https://github.com/rishabkumar7)
 
@@ -39,7 +40,9 @@ A blog about CI/CD, DevOps and AWS technology [@Lock128](https://github.com/Lock
 - [olcortesb](https://olcortesb.hashnode.dev/) -
 A blog focus on serverless in general  [@olcortesb](https://github.com/olcortesb)
 
-- [Security and Cloud 24/7](https://security-24-7.com) - Information Security and Cloud Blog [eyalestrin](https://github.com/eyalestrin)
+- [Security and Cloud 24/7](https://security-24-7.com) -
+Information Security and Cloud Blog
+[eyalestrin](https://github.com/eyalestrin)
 
 - [The Serverless Terminal](https://www.theserverlessterminal.com/) -
 Everything AWS, Serverless and Architectures [@zachjonesnoel](https://github.com/zachjonesnoel)
@@ -60,7 +63,8 @@ DevOps & Architecture trends. [@theonlymonica](https://github.com/theonlymonica)
 Probably your favorite newsletter about Dev and Ops. [@3sky](https://github.com/3sky)
 
 - [Simple AWS - by Guille Ojeda](https://www.simpleaws.dev) -
-Master AWS with Real-World Solutions and Best Practices
+Master AWS with Real-World Solutions and Best Practices.
+[@guilleojeda](https://github.com/guilleojeda)
 
 ## Podcasts
 
@@ -76,6 +80,7 @@ A weekly podcast hosted by Karl Robinson, and Jon Goodall.
 Things related to working in tech,
 tools and technologies relevant for a
 career as a data analyst, as well as tutorials.
+[chinweeee](https://github.com/chinweeee)
 
 - [cicdonaws](https://www.youtube.com/@cicdonaws/) -
 Level up your software development with CI/CD
@@ -85,7 +90,10 @@ best practices, templates and tips & tricks! [@Lock128](https://github.com/Lock1
 Valuable content related to programming. [@ibilalkayy](https://github.com/ibilalkayy)
 
 - [InfiniteLinux](https://www.youtube.com/@InfiniteLinux) -
-In-depth tutorials and demos on the latest technologies in the field, including Terraform, Kubernetes, Docker, Linux, and AWS. [Tariq Siddiqui](https://www.linkedin.com/in/tariqsiddiqui/)
+In-depth tutorials and demos on the latest
+technologies in the field, including Terraform,
+Kubernetes, Docker, Linux, and AWS.
+[Tariq Siddiqui](https://www.linkedin.com/in/tariqsiddiqui/)
 
 - [rishabkumar7](https://www.youtube.com/@rishabkumar7) -
 I am passionate about helping people get
