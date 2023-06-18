@@ -89,6 +89,8 @@ career as a data analyst, as well as tutorials.
 Level up your software development with CI/CD
 best practices, templates and tips & tricks! [@Lock128](https://github.com/Lock128)
 
+- [Open Up The Cloud](https://www.youtube.com/c/OpenUpTheCloud) - Videos to help people start and grow a career in cloud. Created by [Lou](https://twitter.com/loujaybee)
+
 - [ibilalkayy](https://www.youtube.com/@ibilalkayy) -
 Valuable content related to programming. [@ibilalkayy](https://github.com/ibilalkayy)
 
