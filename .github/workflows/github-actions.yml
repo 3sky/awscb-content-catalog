@@ -1,8 +1,15 @@
 name: GitHub Actions for Linting
-on: [push]
+on: [push, pull_request]
 jobs:
   Lint-my-readme-file:
     runs-on: ubuntu-latest
     steps:
       - run: echo "🎉 Great that you're here. First lint our markdown."
       - uses: DavidAnson/markdownlint-cli2-action@v10
+
+  curateLinks:
+    name: Curate all links
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@master
+      - uses: gaurav-nelson/github-action-markdown-link-check@v1
