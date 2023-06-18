@@ -50,6 +50,9 @@ Information Security and Cloud Blog
 - [The Serverless Terminal](https://www.theserverlessterminal.com/) -
 Everything AWS, Serverless and Architectures [@zachjonesnoel](https://github.com/zachjonesnoel)
 
+- [Pawel Piwosz' space on dev.to](https://dev.to/pawelpiwosz) -
+DevOps, Cloud, processes, CI/CD and much more [@pawelpiwosz](https://github.com/pawelpiwosz)
+
 ## Newsletters
 
 - [AWS Weekly](https://awsweekly.info) -
@@ -73,6 +76,9 @@ Master AWS with Real-World Solutions and Best Practices.
 
 - [Last Week in IT](https://rss.com/podcasts/lastweekinit/) -
 A weekly podcast hosted by Pawel Piwosz. [@pawelpiwosz](https://github.com/pawelpiwosz)
+
+- [DevOps In Agile Way](https://rss.com/podcasts/devopsinagileway/) -
+Yet another weekly podcast hosted by Pawel Piwosz. [@pawelpiwosz](https://github.com/pawelpiwosz)
 
 - [Logicast by Logicata](https://logicastvideo.podbean.com) -
 A weekly podcast hosted by Karl Robinson, and Jon Goodall.
@@ -112,3 +118,11 @@ DevOps, Kubernetes, and the latest trends in the IT industry.
 - [WojciechLepczynski](https://www.youtube.com/@WojciechLepczynski) -
 Tutorials, tips and much more mainly in the
 field of cloud and automation.
+
+- [DevOps in the Cloud](https://www.youtube.com/@lastweekinit) -
+The name still needs to be adjusted :) Currently podcasts, more intertesting content hopefuly soon. [@pawelpiwosz](https://github.com/pawelpiwosz)
+
+## Webpages
+
+- [Scaled CI/CD framework](https://www.cicd.run/) -
+CI/CD design framework to use in all phases of creating and maintain the CI/CD [@pawelpiwosz](https://github.com/pawelpiwosz)
