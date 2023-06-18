@@ -112,3 +112,8 @@ DevOps, Kubernetes, and the latest trends in the IT industry.
 - [WojciechLepczynski](https://www.youtube.com/@WojciechLepczynski) -
 Tutorials, tips and much more mainly in the
 field of cloud and automation.
+
+- [Cloud Tuner](https://www.youtube.com/@cloudtuner) -
+AWS Refresher Quiz - AWS CLOUD related quiz which may be used to practice for AWS Certification Exams
+AWS Catch the Concept  -   Short vidoes focusing on various concepts related to system design and AWS
+and many more videos about AWS Concepts which will help to dive into aws.
