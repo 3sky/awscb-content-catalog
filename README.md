@@ -28,7 +28,7 @@ Last Week in AWS. [@QuinnyPig](https://github.com/QuinnyPig)
 - [Lays’s on the Clouds](https://lays147.substack.com) -
 TALK ABOUT AWS, SOFTWARE ARCHITECTURE AND MORE! [@lays147](https://github.com/lays147)
 
-- [Piyush Sachdeva's blog on Medium.com](https://medium.com/@piyush.sachdeva055) - 
+- [Piyush Sachdeva's blog on Medium](https://medium.com/@piyush.sachdeva055) -
 Blog about AWS/Azure/GCP and DevOps [@piyushsachdeva](https://github.com/piyushsachdeva)
 
 - [Ran the Builder](https://www.ranthebuilder.cloud) -
@@ -107,7 +107,8 @@ Kubernetes, Docker, Linux, and AWS.
 - [rishabkumar7](https://www.youtube.com/@rishabkumar7) -
 I am passionate about helping people get
 into cloud and sharing my learnings from my
-time in cloud, DevOps and now Developer Relations. [@rishabkumar7](https://github.com/rishabkumar7)
+time in cloud, DevOps and now Developer Relations.
+[@rishabkumar7](https://github.com/rishabkumar7)
 
 - [TechTutorialswithPiyush](https://www.youtube.com/@TechTutorialswithPiyush) -
 Amazing hands-on projects and tutorial about cloud computing(AWS,Azure,GCP),
@@ -120,9 +121,12 @@ Tutorials, tips and much more mainly in the
 field of cloud and automation.
 
 - [DevOps in the Cloud](https://www.youtube.com/@lastweekinit) -
-The name still needs to be adjusted :) Currently podcasts, more intertesting content hopefuly soon. [@pawelpiwosz](https://github.com/pawelpiwosz)
+The name still needs to be adjusted :) Currently podcasts,
+more intertesting content hopefuly soon.
+[@pawelpiwosz](https://github.com/pawelpiwosz)
 
 ## Webpages
 
 - [Scaled CI/CD framework](https://www.cicd.run/) -
-CI/CD design framework to use in all phases of creating and maintain the CI/CD [@pawelpiwosz](https://github.com/pawelpiwosz)
+CI/CD design framework to use in all phases of creating and maintain the CI/CD
+[@pawelpiwosz](https://github.com/pawelpiwosz)
