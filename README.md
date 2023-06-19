@@ -50,6 +50,9 @@ Information Security and Cloud Blog
 - [The Serverless Terminal](https://www.theserverlessterminal.com/) -
 Everything AWS, Serverless and Architectures [@zachjonesnoel](https://github.com/zachjonesnoel)
 
+- [Tech wth Durgadas](https://tech.durgadas.in/) -
+Development, AWS, Serverless and Tutorials [@imdurgadas](https://github.com/imdurgadas)
+
 ## Newsletters
 
 - [AWS Weekly](https://awsweekly.info) -
@@ -89,6 +92,11 @@ career as a data analyst, as well as tutorials.
 Level up your software development with CI/CD
 best practices, templates and tips & tricks! [@Lock128](https://github.com/Lock128)
 
+- [Cloud Tuner](https://www.youtube.com/@cloudtuner) -
+AWS Refresher Quiz - AWS CLOUD related quiz which may be used to practice for AWS Certification Exams
+AWS Catch the Concept  -   Short vidoes focusing on various concepts related to system design and AWS
+and many more videos about AWS Concepts which will help to dive into aws. [@nandinivijay](https://github.com/nandinivijay)
+
 - [ibilalkayy](https://www.youtube.com/@ibilalkayy) -
 Valuable content related to programming. [@ibilalkayy](https://github.com/ibilalkayy)
 
@@ -113,7 +121,6 @@ DevOps, Kubernetes, and the latest trends in the IT industry.
 Tutorials, tips and much more mainly in the
 field of cloud and automation.
 
-- [Cloud Tuner](https://www.youtube.com/@cloudtuner) -
-AWS Refresher Quiz - AWS CLOUD related quiz which may be used to practice for AWS Certification Exams
-AWS Catch the Concept  -   Short vidoes focusing on various concepts related to system design and AWS
-and many more videos about AWS Concepts which will help to dive into aws.
+- [Durgadas Kamath](https://www.youtube.com/@durgadaskamath) -
+Tech videos curated throug experience in the field of AWS. Serverless, Developer Experience, Architecture Patterns and many more.
+
