@@ -19,6 +19,8 @@ AWS, Azure, Kubernetes, Automation. Tips and tutorials.
 - [DANIEL DONBAVAND](https://danieldonbavand.com) -
 Transforming AWS Vision into NET Reality [@donbavand](https://github.com/donbavand)
 
+- [Danil Smirnov’s Blog](https://blog.smirnov.la/) - Blog about DevOps and Cloud Computing. [@danil-smirnov](https://github.com/danil-smirnov)
+
 - [Jaehyeon Kim's blog](https://jaehyeon.me) -
 Blog about data engineering. [@jaehyeon-kim](https://github.com/jaehyeon-kim)
 
