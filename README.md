@@ -76,6 +76,9 @@ Development, AWS, Serverless and Tutorials [@imdurgadas](https://github.com/imdu
 Road to AWS - This is my cloud journey
 [@suhajda3](https://github.com/suhajda3)
 
+- [Alexander Hose](https://alexanderhose.com/) -
+Let's make the cloud more secure • The Cloud Security Blog ⛅ [@AlexanderHose](https://github.com/AlexanderHose)
+
 ## Newsletters
 
 - [AWS Weekly](https://awsweekly.info) -
