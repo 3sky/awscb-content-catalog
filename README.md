@@ -50,6 +50,9 @@ Information Security and Cloud Blog
 - [The Serverless Terminal](https://www.theserverlessterminal.com/) -
 Everything AWS, Serverless and Architectures [@zachjonesnoel](https://github.com/zachjonesnoel)
 
+- [Tech wth Durgadas](https://tech.durgadas.in/) -
+Development, AWS, Serverless and Tutorials [@imdurgadas](https://github.com/imdurgadas)
+
 ## Newsletters
 
 - [AWS Weekly](https://awsweekly.info) -
@@ -112,3 +115,6 @@ DevOps, Kubernetes, and the latest trends in the IT industry.
 - [WojciechLepczynski](https://www.youtube.com/@WojciechLepczynski) -
 Tutorials, tips and much more mainly in the
 field of cloud and automation.
+
+- [Durgadas Kamath](https://www.youtube.com/@durgadaskamath) -
+Tech videos curated throug experience in the field of AWS. Serverless, Developer Experience, Architecture Patterns and many more.
