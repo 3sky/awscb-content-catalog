@@ -72,6 +72,9 @@ DevOps, Cloud, processes, CI/CD and much more [@pawelpiwosz](https://github.com/
 - [Tech wth Durgadas](https://tech.durgadas.in/) -
 Development, AWS, Serverless and Tutorials [@imdurgadas](https://github.com/imdurgadas)
 
+- [Timur's Blog](https://tgaleev.com/) - 
+Architectures, AWS and Tutorials ⛅ [@timurgaleev](https://github.com/timurgaleev)
+
 - [Road to AWS](https://roadtoaws.com/) -
 Road to AWS - This is my cloud journey
 [@suhajda3](https://github.com/suhajda3)
