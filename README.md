@@ -19,6 +19,10 @@ AWS, Azure, Kubernetes, Automation. Tips and tutorials.
 - [DANIEL DONBAVAND](https://danieldonbavand.com) -
 Transforming AWS Vision into NET Reality [@donbavand](https://github.com/donbavand)
 
+- [Danil Smirnov’s Blog](https://blog.smirnov.la/) -
+Blog about DevOps and Cloud Computing.
+[@danil-smirnov](https://github.com/danil-smirnov)
+
 - [Jaehyeon Kim's blog](https://jaehyeon.me) -
 Blog about data engineering. [@jaehyeon-kim](https://github.com/jaehyeon-kim)
 
@@ -53,6 +57,10 @@ Everything AWS, Serverless and Architectures [@zachjonesnoel](https://github.com
 - [Pawel Piwosz' space on dev.to](https://dev.to/pawelpiwosz) -
 DevOps, Cloud, processes, CI/CD and much more [@pawelpiwosz](https://github.com/pawelpiwosz)
 
+- [Tech wth Durgadas](https://tech.durgadas.in/) -
+Development, AWS, Serverless and Tutorials [@imdurgadas](https://github.com/imdurgadas)
+
+
 ## Newsletters
 
 - [AWS Weekly](https://awsweekly.info) -
@@ -75,10 +83,12 @@ Master AWS with Real-World Solutions and Best Practices.
 ## Podcasts
 
 - [Last Week in IT](https://rss.com/podcasts/lastweekinit/) -
-A weekly podcast hosted by Pawel Piwosz. [@pawelpiwosz](https://github.com/pawelpiwosz)
+A weekly podcast hosted by Pawel Piwosz.
+[@pawelpiwosz](https://github.com/pawelpiwosz)
 
 - [DevOps In Agile Way](https://rss.com/podcasts/devopsinagileway/) -
-Yet another weekly podcast hosted by Pawel Piwosz. [@pawelpiwosz](https://github.com/pawelpiwosz)
+Yet another weekly podcast hosted by Pawel Piwosz.
+[@pawelpiwosz](https://github.com/pawelpiwosz)
 
 - [Logicast by Logicata](https://logicastvideo.podbean.com) -
 A weekly podcast hosted by Karl Robinson, and Jon Goodall.
@@ -94,6 +104,18 @@ career as a data analyst, as well as tutorials.
 - [cicdonaws](https://www.youtube.com/@cicdonaws/) -
 Level up your software development with CI/CD
 best practices, templates and tips & tricks! [@Lock128](https://github.com/Lock128)
+
+- [Open Up The Cloud](https://www.youtube.com/c/OpenUpTheCloud) -
+Videos to help people start and grow a career in cloud.
+Created by [Lou](https://twitter.com/loujaybee)
+
+- [Cloud Tuner](https://www.youtube.com/@cloudtuner) -
+AWS Refresher Quiz - AWS CLOUD related quiz which
+may be used to practice for AWS Certification Exams
+AWS Catch the Concept - Short vidoes focusing 
+on various concepts related to system design and AWS
+and many more videos about AWS Concepts which will
+help to dive into aws. [@nandinivijay](https://github.com/nandinivijay)
 
 - [ibilalkayy](https://www.youtube.com/@ibilalkayy) -
 Valuable content related to programming. [@ibilalkayy](https://github.com/ibilalkayy)
@@ -120,6 +142,7 @@ DevOps, Kubernetes, and the latest trends in the IT industry.
 Tutorials, tips and much more mainly in the
 field of cloud and automation.
 
+
 - [DevOps in the Cloud](https://www.youtube.com/@lastweekinit) -
 The name still needs to be adjusted :) Currently podcasts,
 more intertesting content hopefuly soon.
@@ -130,3 +153,9 @@ more intertesting content hopefuly soon.
 - [Scaled CI/CD framework](https://www.cicd.run/) -
 CI/CD design framework to use in all phases of creating and maintain the CI/CD
 [@pawelpiwosz](https://github.com/pawelpiwosz)
+
+- [Durgadas Kamath](https://www.youtube.com/@durgadaskamath) -
+Tech videos curated throug experience in the field of AWS.
+Serverless, Developer Experience, Architecture Patterns and many more.
+
+
