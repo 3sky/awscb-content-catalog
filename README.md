@@ -1,9 +1,17 @@
 # AWS Community Builders - content catalog
 
+![cb-logo](./Logo.png)
+
 This repository containts link to blogs,
 YouTube channels, podcasts, and all
 resources builded via
 [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/).
+
+## How to contribute
+
+There is great [gist](https://gist.github.com/olcortesb/788310f20d5191da4880e17544b5db22)
+from [Oscar](https://github.com/olcortesb). If you are intrested with contribution,
+but have no idea where to start. That is great resource! 
 
 ## Blogs
 
