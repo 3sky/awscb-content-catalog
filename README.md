@@ -92,6 +92,10 @@ career as a data analyst, as well as tutorials.
 Level up your software development with CI/CD
 best practices, templates and tips & tricks! [@Lock128](https://github.com/Lock128)
 
+- [Open Up The Cloud](https://www.youtube.com/c/OpenUpTheCloud) -
+Videos to help people start and grow a career in cloud.
+Created by [Lou](https://twitter.com/loujaybee)
+
 - [Cloud Tuner](https://www.youtube.com/@cloudtuner) -
 AWS Refresher Quiz - AWS CLOUD related quiz which may be used to practice for AWS Certification Exams
 AWS Catch the Concept  -   Short vidoes focusing on various concepts related to system design and AWS
