@@ -54,6 +54,10 @@ Information Security and Cloud Blog
 - [The Serverless Terminal](https://www.theserverlessterminal.com/) -
 Everything AWS, Serverless and Architectures [@zachjonesnoel](https://github.com/zachjonesnoel)
 
+- [Binaryheap](https://binaryheap.com) -
+A blog about about tech, programming, AWS, Serverless.
+[@benbpyle](https://github.com/benbpyle)
+
 - [Pawel Piwosz' space on dev.to](https://dev.to/pawelpiwosz) -
 DevOps, Cloud, processes, CI/CD and much more [@pawelpiwosz](https://github.com/pawelpiwosz)
 
