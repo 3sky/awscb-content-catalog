@@ -9,14 +9,18 @@ on:
 
 jobs:
   Lint-my-readme-file:
+    name: Check markdown 
     runs-on: ubuntu-latest
     steps:
       - run: echo "🎉 Great that you're here. First lint our markdown."
+      - uses: actions/checkout@master
       - uses: DavidAnson/markdownlint-cli2-action@v10
 
   curateLinks:
     name: Curate all links
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
       - uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          config-file: 'config.json'
