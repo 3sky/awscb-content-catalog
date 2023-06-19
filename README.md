@@ -11,7 +11,7 @@ resources builded via
 
 There is great [gist](https://gist.github.com/olcortesb/788310f20d5191da4880e17544b5db22)
 from [Oscar](https://github.com/olcortesb). If you are intrested with contribution,
-but have no idea where to start. That is great resource! 
+but have no idea where to start. That is great resource!
 
 ## Blogs
 
@@ -72,7 +72,6 @@ DevOps, Cloud, processes, CI/CD and much more [@pawelpiwosz](https://github.com/
 - [Tech wth Durgadas](https://tech.durgadas.in/) -
 Development, AWS, Serverless and Tutorials [@imdurgadas](https://github.com/imdurgadas)
 
-
 ## Newsletters
 
 - [AWS Weekly](https://awsweekly.info) -
@@ -124,7 +123,7 @@ Created by [Lou](https://twitter.com/loujaybee)
 - [Cloud Tuner](https://www.youtube.com/@cloudtuner) -
 AWS Refresher Quiz - AWS CLOUD related quiz which
 may be used to practice for AWS Certification Exams
-AWS Catch the Concept - Short vidoes focusing 
+AWS Catch the Concept - Short vidoes focusing
 on various concepts related to system design and AWS
 and many more videos about AWS Concepts which will
 help to dive into aws. [@nandinivijay](https://github.com/nandinivijay)
@@ -154,7 +153,6 @@ DevOps, Kubernetes, and the latest trends in the IT industry.
 Tutorials, tips and much more mainly in the
 field of cloud and automation.
 
-
 - [DevOps in the Cloud](https://www.youtube.com/@lastweekinit) -
 The name still needs to be adjusted :) Currently podcasts,
 more intertesting content hopefuly soon.
@@ -169,5 +167,3 @@ CI/CD design framework to use in all phases of creating and maintain the CI/CD
 - [Durgadas Kamath](https://www.youtube.com/@durgadaskamath) -
 Tech videos curated throug experience in the field of AWS.
 Serverless, Developer Experience, Architecture Patterns and many more.
-
-
