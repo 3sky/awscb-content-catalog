@@ -1,3 +1,8 @@
+---
+title: Contenct catalog
+subtitle: AWS Community Builders - content catalog
+---
+
 # AWS Community Builders - content catalog
 
 ![cb-logo](./Logo.png)
