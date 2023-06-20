@@ -7,7 +7,7 @@ permalink: /index.html
 
 This repository containts link to blogs,
 YouTube channels, podcasts, and all
-resources builded via
+resources built via
 [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/).
 
 ## How to contribute
