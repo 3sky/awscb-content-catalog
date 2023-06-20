@@ -1,9 +1,7 @@
 ---
-title: Contenct catalog
-subtitle: AWS Community Builders - content catalog
+title: AWS Community Builders - content catalog
+permalink: /index.html
 ---
-
-# AWS Community Builders - content catalog
 
 ![cb-logo](./Logo.png)
 
