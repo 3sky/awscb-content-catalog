@@ -13,7 +13,7 @@ resources built via
 ## How to contribute
 
 There is great [gist](https://gist.github.com/olcortesb/788310f20d5191da4880e17544b5db22)
-from [Oscar](https://github.com/olcortesb). If you are intrested with contribution,
+from [Oscar](https://github.com/olcortesb). If you are interested with contribution,
 but have no idea where to start. That is great resource!
 
 ## Blogs
@@ -136,7 +136,7 @@ Created by [Lou](https://twitter.com/loujaybee)
 - [Cloud Tuner](https://www.youtube.com/@cloudtuner) -
 AWS Refresher Quiz - AWS CLOUD related quiz which
 may be used to practice for AWS Certification Exams
-AWS Catch the Concept - Short vidoes focusing
+AWS Catch the Concept - Short videos focusing
 on various concepts related to system design and AWS
 and many more videos about AWS Concepts which will
 help to dive into aws. [@nandinivijay](https://github.com/nandinivijay)
@@ -168,15 +168,18 @@ field of cloud and automation.
 
 - [DevOps in the Cloud](https://www.youtube.com/@lastweekinit) -
 The name still needs to be adjusted :) Currently podcasts,
-more intertesting content hopefuly soon.
+more interesting content hopefully soon.
 [@pawelpiwosz](https://github.com/pawelpiwosz)
 
 ## Webpages
+
+- [Arm Learning Paths](https://learn.arm.com)
+Tutorials for software development on the Arm architecture, including AWS Graviton processors. 
 
 - [Scaled CI/CD framework](https://www.cicd.run/) -
 CI/CD design framework to use in all phases of creating and maintain the CI/CD
 [@pawelpiwosz](https://github.com/pawelpiwosz)
 
 - [Durgadas Kamath](https://www.youtube.com/@durgadaskamath) -
-Tech videos curated throug experience in the field of AWS.
+Tech videos curated through experience in the field of AWS.
 Serverless, Developer Experience, Architecture Patterns and many more.
