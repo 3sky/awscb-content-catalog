@@ -5,7 +5,7 @@ permalink: /index.html
 
 ![cb-logo](./Logo.png)
 
-This repository containts link to blogs,
+This repository contains link to blogs,
 YouTube channels, podcasts, and all
 resources built via
 [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/).
@@ -19,7 +19,7 @@ but have no idea where to start. That is great resource!
 ## Blogs
 
 - [3sky's notes](https://blog.3sky.dev) -
-Blog about DevOps toolchain, and hands on lab. [@3sky](https://github.com/3sky)
+Blog about DevOps tool chain, and hands on lab. [@3sky](https://github.com/3sky)
 
 - [Bilal's Blog](https://ibilalkayy.hashnode.dev) -
 Blog on hashnode [@ibilalkayy](https://github.com/ibilalkayy)
@@ -27,10 +27,10 @@ Blog on hashnode [@ibilalkayy](https://github.com/ibilalkayy)
 - [Cloud computing blog](https://lepczynski.it/en/) -
 AWS, Azure, Kubernetes, Automation. Tips and tutorials.  
 
-- [DANIEL DONBAVAND](https://danieldonbavand.com) -
+- [DANIEL donbavand](https://danieldonbavand.com) -
 Transforming AWS Vision into NET Reality [@donbavand](https://github.com/donbavand)
 
-- [Danil Smirnov’s Blog](https://blog.smirnov.la/) -
+- [Danil Smirnov's Blog](https://blog.smirnov.la/) -
 Blog about DevOps and Cloud Computing.
 [@danil-smirnov](https://github.com/danil-smirnov)
 
@@ -40,7 +40,7 @@ Blog about data engineering. [@jaehyeon-kim](https://github.com/jaehyeon-kim)
 - [Last Week in AWS](https://www.lastweekinaws.com/blog/) -
 Last Week in AWS. [@QuinnyPig](https://github.com/QuinnyPig)
 
-- [Lays’s on the Clouds](https://lays147.substack.com) -
+- [Lays's on the Clouds](https://lays147.substack.com) -
 TALK ABOUT AWS, SOFTWARE ARCHITECTURE AND MORE! [@lays147](https://github.com/lays147)
 
 - [Piyush Sachdeva's blog on Medium](https://medium.com/@piyush.sachdeva055) -
@@ -72,7 +72,7 @@ A blog about about tech, programming, AWS, Serverless.
 - [Pawel Piwosz' space on dev.to](https://dev.to/pawelpiwosz) -
 DevOps, Cloud, processes, CI/CD and much more [@pawelpiwosz](https://github.com/pawelpiwosz)
 
-- [Tech wth Durgadas](https://tech.durgadas.in/) -
+- [Tech with Durgadas](https://tech.durgadas.in/) -
 Development, AWS, Serverless and Tutorials [@imdurgadas](https://github.com/imdurgadas)
 
 - [Timur's Blog](https://tgaleev.com/) -
@@ -152,7 +152,7 @@ Kubernetes, Docker, Linux, and AWS.
 
 - [rishabkumar7](https://www.youtube.com/@rishabkumar7) -
 I am passionate about helping people get
-into cloud and sharing my learnings from my
+into cloud and sharing my knowledge from my
 time in cloud, DevOps and now Developer Relations.
 [@rishabkumar7](https://github.com/rishabkumar7)
 
