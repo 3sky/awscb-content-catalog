@@ -11,7 +11,7 @@ InfiniteLinux
 Jaehyeon
 Kamath
 Kubernetes
-Lays’s
+Lays's
 Logicast
 Logicata
 Ojeda
@@ -23,7 +23,7 @@ Rishab
 Sachdeva's
 Serverless
 Siddiqui
-Smirnov’s
+Smirnov's
 Tariq
 TechTutorialswithPiyush
 Terraform

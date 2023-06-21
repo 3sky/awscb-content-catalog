@@ -13,7 +13,7 @@ resources built via
 ## How to contribute
 
 There is great [gist](https://gist.github.com/olcortesb/788310f20d5191da4880e17544b5db22)
-from [Oscar](https://github.com/olcortesb). If you are intrested with contribution,
+from [Oscar](https://github.com/olcortesb). If you are interested with contribution,
 but have no idea where to start. That is great resource!
 
 ## Blogs
@@ -30,7 +30,7 @@ AWS, Azure, Kubernetes, Automation. Tips and tutorials.
 - [DANIEL donbavand](https://danieldonbavand.com) -
 Transforming AWS Vision into NET Reality [@donbavand](https://github.com/donbavand)
 
-- [Danil Smirnov’s Blog](https://blog.smirnov.la/) -
+- [Danil Smirnov's Blog](https://blog.smirnov.la/) -
 Blog about DevOps and Cloud Computing.
 [@danil-smirnov](https://github.com/danil-smirnov)
 
@@ -40,7 +40,7 @@ Blog about data engineering. [@jaehyeon-kim](https://github.com/jaehyeon-kim)
 - [Last Week in AWS](https://www.lastweekinaws.com/blog/) -
 Last Week in AWS. [@QuinnyPig](https://github.com/QuinnyPig)
 
-- [Lays’s on the Clouds](https://lays147.substack.com) -
+- [Lays's on the Clouds](https://lays147.substack.com) -
 TALK ABOUT AWS, SOFTWARE ARCHITECTURE AND MORE! [@lays147](https://github.com/lays147)
 
 - [Piyush Sachdeva's blog on Medium](https://medium.com/@piyush.sachdeva055) -
