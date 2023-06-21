@@ -27,7 +27,7 @@ Blog on hashnode [@ibilalkayy](https://github.com/ibilalkayy)
 - [Cloud computing blog](https://lepczynski.it/en/) -
 AWS, Azure, Kubernetes, Automation. Tips and tutorials.  
 
-- [DANIEL DONBAVAND](https://danieldonbavand.com) -
+- [DANIEL donbavand](https://danieldonbavand.com) -
 Transforming AWS Vision into NET Reality [@donbavand](https://github.com/donbavand)
 
 - [Danil Smirnov’s Blog](https://blog.smirnov.la/) -
