@@ -24,3 +24,12 @@ jobs:
       - uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
           config-file: 'config.json'
+
+  spellcheck:
+    name: Spellcheck
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: rojopolis/spellcheck-github-actions@v0
+      with:
+        source_files: README.md
