@@ -174,7 +174,7 @@ more interesting content hopefully soon.
 ## Webpages
 
 - [Arm Learning Paths](https://learn.arm.com)
-Tutorials for software development on the Arm architecture, 
+Tutorials for software development on the Arm architecture,
 including AWS Graviton processors.
 
 - [Scaled CI/CD framework](https://www.cicd.run/) -
