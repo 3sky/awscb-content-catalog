@@ -171,12 +171,14 @@ The name still needs to be adjusted :) Currently podcasts,
 more interesting content hopefully soon.
 [@pawelpiwosz](https://github.com/pawelpiwosz)
 
+- [Durgadas Kamath](https://www.youtube.com/@durgadaskamath) -
+Tech videos curated through experience in the field of AWS.
+Serverless, Developer Experience, Architecture Patterns and many more.
+
 ## Webpages
 
 - [Scaled CI/CD framework](https://www.cicd.run/) -
 CI/CD design framework to use in all phases of creating and maintain the CI/CD
 [@pawelpiwosz](https://github.com/pawelpiwosz)
 
-- [Durgadas Kamath](https://www.youtube.com/@durgadaskamath) -
-Tech videos curated through experience in the field of AWS.
-Serverless, Developer Experience, Architecture Patterns and many more.
+
