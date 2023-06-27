@@ -45,6 +45,8 @@ ibilalkayy
 imdurgadas
 isenberg
 jaehyeon
+jiri
+jiripik
 kim
 lockhead
 mskutin
@@ -53,6 +55,7 @@ olcortesb
 pawelpiwosz
 permalink
 piyushsachdeva
+pik
 rishabkumar
 serverless
 smirnov

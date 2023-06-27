@@ -37,11 +37,19 @@ Blog about DevOps and Cloud Computing.
 - [Jaehyeon Kim's blog](https://jaehyeon.me) -
 Blog about data engineering. [@jaehyeon-kim](https://github.com/jaehyeon-kim)
 
+- [jiri pik](https://jiripik.com/blog/) -
+Personal blog, you can read reviews,
+tech posts, and travel guide. [@jiripik](https://github.com/jiripik)
+
 - [Last Week in AWS](https://www.lastweekinaws.com/blog/) -
 Last Week in AWS. [@QuinnyPig](https://github.com/QuinnyPig)
 
 - [Lays's on the Clouds](https://lays147.substack.com) -
 TALK ABOUT AWS, SOFTWARE ARCHITECTURE AND MORE! [@lays147](https://github.com/lays147)
+
+- [Let's make Cloud](https://letsmake.cloud/) -
+Interesting content about cloud(AWS),
+Kubernetes, and DevOps. [@theonlymonica](https://github.com/theonlymonica)
 
 - [Piyush Sachdeva's blog on Medium](https://medium.com/@piyush.sachdeva055) -
 Blog about AWS/Azure/GCP and DevOps [@piyushsachdeva](https://github.com/piyushsachdeva)
@@ -140,6 +148,9 @@ AWS Catch the Concept - Short videos focusing
 on various concepts related to system design and AWS
 and many more videos about AWS Concepts which will
 help to dive into aws. [@nandinivijay](https://github.com/nandinivijay)
+
+- [DevOps Toolbox](https://www.youtube.com/@devopstoolbox) -
+Developer Productivity, Ops, Security. YOU KNOW... FUN!
 
 - [ibilalkayy](https://www.youtube.com/@ibilalkayy) -
 Valuable content related to programming. [@ibilalkayy](https://github.com/ibilalkayy)
