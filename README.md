@@ -94,7 +94,7 @@ Road to AWS - This is my cloud journey
 Let's make the cloud more secure • The Cloud Security Blog ⛅ [@AlexanderHose](https://github.com/AlexanderHose)
 
 - [The Field of Possibilities](https://ankurr.substack.com/) -
-I'm [@ankurr0y](https://github.com/ankurr0y/), I write about a lot of stuff, mostly tech, but also a lot of what's on my mind.
+I'm [@ankurr0y](https://github.com/ankurr0y/), I write a lot, mostly tech.
 
 ## Newsletters
 
