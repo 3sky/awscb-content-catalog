@@ -93,6 +93,9 @@ Road to AWS - This is my cloud journey
 - [Alexander Hose](https://alexanderhose.com/) -
 Let's make the cloud more secure • The Cloud Security Blog ⛅ [@AlexanderHose](https://github.com/AlexanderHose)
 
+- [The Field of Possibilities](https://ankurr.substack.com/) -
+I'm [@ankurr0y](https://github.com/ankurr0y/), I write a lot, mostly tech.
+
 ## Newsletters
 
 - [AWS Weekly](https://awsweekly.info) -
