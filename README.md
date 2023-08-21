@@ -96,6 +96,9 @@ Let's make the cloud more secure • The Cloud Security Blog ⛅ [@AlexanderHose
 - [The Field of Possibilities](https://ankurr.substack.com/) -
 I'm [@ankurr0y](https://github.com/ankurr0y/), I write a lot, mostly tech.
 
+- [Anna's Blog](https://medium.com/@annpastushko/) -
+AWS reference Architectures and Python CDK projects for them [@ChildishGirl](https://github.com/ChildishGirl)  
+
 ## Newsletters
 
 - [AWS Weekly](https://awsweekly.info) -
@@ -114,6 +117,9 @@ Probably your favorite newsletter about Dev and Ops. [@3sky](https://github.com/
 - [Simple AWS - by Guille Ojeda](https://www.simpleaws.dev) -
 Master AWS with Real-World Solutions and Best Practices.
 [@guilleojeda](https://github.com/guilleojeda)
+
+- [APAWS - biweekly AWS tips](https://annpastushko.substack.com) -
+Tips and tricks on how to use AWS services to build better data and ML solutions. [@ChildishGirl](https://github.com/ChildishGirl)
 
 ## Podcasts
 
