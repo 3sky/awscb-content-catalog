@@ -188,6 +188,10 @@ DevOps, Kubernetes, and the latest trends in the IT industry.
 Tutorials, tips and much more mainly in the
 field of cloud and automation.
 
+- [DevOps in the Cloud](https://www.youtube.com/@devopsinagileway) -
+Currently podcasts, more interesting content hopefully soon.
+[@pawelpiwosz](https://github.com/pawelpiwosz)
+
 ## Webpages
 
 - [Arm Learning Paths](https://learn.arm.com)
