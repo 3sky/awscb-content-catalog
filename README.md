@@ -197,9 +197,8 @@ Currently podcasts, and more interesting content hopefully soon.
 [@pawelpiwosz](https://github.com/pawelpiwosz)
 
 - [codewithmukesh](https://codewithmukesh.com/youtube) -
-Tech YouTube Channel mostly around AWS, .NET and related cloud stuff.
+Tech YouTube Channel mostly around AWS, .NET, and related cloud stuff.
 [@iammukeshm](https://github.com/iammukeshm)
-
 
 ## Webpages
 
