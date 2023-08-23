@@ -5,7 +5,7 @@ permalink: /index.html
 
 ![cb-logo](./Logo.png)
 
-This repository contains link to blogs,
+This repository contains links to blogs,
 YouTube channels, podcasts, and all
 resources built via
 [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/).
@@ -13,13 +13,13 @@ resources built via
 ## How to contribute
 
 There is great [gist](https://gist.github.com/olcortesb/788310f20d5191da4880e17544b5db22)
-from [Oscar](https://github.com/olcortesb). If you are interested with contribution,
-but have no idea where to start. That is great resource!
+from [Oscar](https://github.com/olcortesb). If you are interested in contribution
+but have no idea where to start. That is a great resource!
 
 ## Blogs
 
 - [3sky's notes](https://blog.3sky.dev) -
-Blog about DevOps tool chain, and hands on lab. [@3sky](https://github.com/3sky)
+Blog about DevOps toolchain, and hands-on lab. [@3sky](https://github.com/3sky)
 
 - [Bilal's Blog](https://ibilalkayy.hashnode.dev) -
 Blog on hashnode [@ibilalkayy](https://github.com/ibilalkayy)
@@ -61,7 +61,7 @@ A blog dedicated to AWS Serverless & Lambda 101 [@ran-isenberg](https://github.c
 Blog on hashnode [@rishabkumar7](https://github.com/rishabkumar7)
 
 - [lockhead.info](https://lockhead.info) -
-A blog about CI/CD, DevOps and AWS technology [@Lock128](https://github.com/Lock128)
+A blog about CI/CD, DevOps, and AWS technology [@Lock128](https://github.com/Lock128)
 
 - [olcortesb](https://olcortesb.hashnode.dev/) -
 A blog focus on serverless in general  [@olcortesb](https://github.com/olcortesb)
@@ -74,11 +74,11 @@ Information Security and Cloud Blog
 Everything AWS, Serverless and Architectures [@zachjonesnoel](https://github.com/zachjonesnoel)
 
 - [Binaryheap](https://binaryheap.com) -
-A blog about about tech, programming, AWS, Serverless.
+A blog about tech, programming, AWS, and Serverless.
 [@benbpyle](https://github.com/benbpyle)
 
 - [Pawel Piwosz' space on dev.to](https://dev.to/pawelpiwosz) -
-DevOps, Cloud, processes, CI/CD and much more [@pawelpiwosz](https://github.com/pawelpiwosz)
+DevOps, Cloud, processes, CI/CD, and much more [@pawelpiwosz](https://github.com/pawelpiwosz)
 
 - [Tech with Durgadas](https://tech.durgadas.in/) -
 Development, AWS, Serverless and Tutorials [@imdurgadas](https://github.com/imdurgadas)
@@ -100,10 +100,14 @@ I'm [@ankurr0y](https://github.com/ankurr0y/), I write a lot, mostly tech.
 AWS reference Architectures and Python CDK projects for them
 [@ChildishGirl](https://github.com/ChildishGirl)  
 
+- [Mukesh's Code Blog](https://codewithmukesh.com/blog/category/aws/) -
+AWS + .NET Articles = ❤️. In-depth Guides and Tutorials for .NET Developers
+[@iammukeshm](https://github.com/iammukeshm)  
+
 ## Newsletters
 
 - [AWS Weekly](https://awsweekly.info) -
-Weekly wrap-up of AWS public releases. [@mskutin](https://github.com/mskutin)
+A weekly wrap-up of AWS public releases. [@mskutin](https://github.com/mskutin)
 
 - [Last Week in AWS](https://www.lastweekinaws.com/newsletter) -
 Last Week in AWS. [@QuinnyPig](https://github.com/QuinnyPig)
@@ -146,14 +150,14 @@ career as a data analyst, as well as tutorials.
 
 - [cicdonaws](https://www.youtube.com/@cicdonaws/) -
 Level up your software development with CI/CD
-best practices, templates and tips & tricks! [@Lock128](https://github.com/Lock128)
+best practices, templates, and tips & tricks! [@Lock128](https://github.com/Lock128)
 
 - [Open Up The Cloud](https://www.youtube.com/c/OpenUpTheCloud) -
-Videos to help people start and grow a career in cloud.
+Videos to help people start and grow a career in the cloud.
 Created by [Lou](https://twitter.com/loujaybee)
 
 - [Cloud Tuner](https://www.youtube.com/@cloudtuner) -
-AWS Refresher Quiz - AWS CLOUD related quiz which
+AWS Refresher Quiz - AWS CLOUD-related quiz which
 may be used to practice for AWS Certification Exams
 AWS Catch the Concept - Short videos focusing
 on various concepts related to system design and AWS
@@ -174,8 +178,8 @@ Kubernetes, Docker, Linux, and AWS.
 
 - [rishabkumar7](https://www.youtube.com/@rishabkumar7) -
 I am passionate about helping people get
-into cloud and sharing my knowledge from my
-time in cloud, DevOps and now Developer Relations.
+into the cloud and sharing my knowledge from my
+time in the cloud, DevOps, and now Developer Relations.
 [@rishabkumar7](https://github.com/rishabkumar7)
 
 - [TechTutorialswithPiyush](https://www.youtube.com/@TechTutorialswithPiyush) -
@@ -185,12 +189,16 @@ DevOps, Kubernetes, and the latest trends in the IT industry.
 - [techwithhelen](https://www.youtube.com/@techwithhelen) - Simplifying DevOps/Cloud!
 
 - [WojciechLepczynski](https://www.youtube.com/@WojciechLepczynski) -
-Tutorials, tips and much more mainly in the
+Tutorials, tips, and much more mainly in the
 field of cloud and automation.
 
 - [DevOps in the Cloud](https://www.youtube.com/@devopsinagileway) -
-Currently podcasts, more interesting content hopefully soon.
+Currently podcasts, and more interesting content hopefully soon.
 [@pawelpiwosz](https://github.com/pawelpiwosz)
+
+- [codewithmukesh](https://codewithmukesh.com/youtube) -
+Tech YouTube Channel mostly around AWS, .NET, and related cloud stuff.
+[@iammukeshm](https://github.com/iammukeshm)
 
 ## Webpages
 
@@ -199,9 +207,9 @@ Tutorials for software development on the Arm architecture,
 including AWS Graviton processors.
 
 - [Scaled CI/CD framework](https://www.cicd.run/) -
-CI/CD design framework to use in all phases of creating and maintain the CI/CD
+CI/CD design framework to use in all phases of creating and maintaining the CI/CD
 [@pawelpiwosz](https://github.com/pawelpiwosz)
 
 - [Durgadas Kamath](https://www.youtube.com/@durgadaskamath) -
 Tech videos curated through experience in the field of AWS.
-Serverless, Developer Experience, Architecture Patterns and many more.
+Serverless, Developer Experience, Architecture Patterns, and many more.
