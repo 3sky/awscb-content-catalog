@@ -108,6 +108,9 @@ AWS + .NET Articles = ❤️. In-depth Guides and Tutorials for .NET Developers
 Talks about AWS, Serverless, .NET and DevOps, GitOps and Observability
 [@majdi-d](https://github.com/majdi-d)
 
+- [Luthfi Anandra Blog](https://blogluthfi.ludesdeveloper.com/) -
+Blog about cloud learning journey by [@lanandra](https://github.com/lanandra)
+
 ## Newsletters
 
 - [AWS Weekly](https://awsweekly.info) -
