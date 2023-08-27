@@ -104,6 +104,9 @@ AWS reference Architectures and Python CDK projects for them
 AWS + .NET Articles = ❤️. In-depth Guides and Tutorials for .NET Developers
 [@iammukeshm](https://github.com/iammukeshm)  
 
+- [Luthfi Anandra Blog](https://blogluthfi.ludesdeveloper.com/) -
+Blog about cloud learning journey by [@lanandra](https://github.com/lanandra)
+
 ## Newsletters
 
 - [AWS Weekly](https://awsweekly.info) -
