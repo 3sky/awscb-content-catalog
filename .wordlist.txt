@@ -73,6 +73,12 @@ toolchain
 Mukesh's
 iammukeshm
 codewithmukesh
+Dhissi
+GitOps
+Majdi
+Observability
+majdi
+Dhissi's
 lanandra
 Anandra
 Luthfi
