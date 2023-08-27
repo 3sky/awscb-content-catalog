@@ -104,6 +104,9 @@ AWS reference Architectures and Python CDK projects for them
 AWS + .NET Articles = ❤️. In-depth Guides and Tutorials for .NET Developers
 [@iammukeshm](https://github.com/iammukeshm)  
 
+- [Majdi Dhissi's blog](https://medium.com/@majdid) -
+Talks about AWS, Serverless, Containers, .NET, DevOps, GitOps and Observability. [@majdi-d](https://github.com/majdi-d)
+
 ## Newsletters
 
 - [AWS Weekly](https://awsweekly.info) -
